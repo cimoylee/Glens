@@ -1,8 +1,0 @@
-com.paddle.ocr.demo.test.ppocr-sdk-annotation-experimental-1.1.0-0 /data/user/0/com.tom.rv2ide/files/home/.gradle/caches/9.0.0/transforms/387aebb1fd593c9594c5b4e0bc526ed7/transformed/annotation-experimental-1.1.0/res
-com.paddle.ocr.demo.test.ppocr-sdk-core-1.5.0-1 /data/user/0/com.tom.rv2ide/files/home/.gradle/caches/9.0.0/transforms/9c7902401a518a02bc3227345cc5b9ea/transformed/core-1.5.0/res
-com.paddle.ocr.demo.test.ppocr-sdk-opencv-4.9.0-2 /data/user/0/com.tom.rv2ide/files/home/.gradle/caches/9.0.0/transforms/d61d3f45a3fb7f6951b57140fe474df1/transformed/opencv-4.9.0/res
-com.paddle.ocr.demo.test.ppocr-sdk-androidTest-3 /storage/emulated/0/AndroidIDEProjects/Glens/ppocr-sdk/build/generated/res/resValues/androidTest/debug
-com.paddle.ocr.demo.test.ppocr-sdk-mergeDebugAndroidTestResources-4 /storage/emulated/0/AndroidIDEProjects/Glens/ppocr-sdk/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
-com.paddle.ocr.demo.test.ppocr-sdk-mergeDebugAndroidTestResources-5 /storage/emulated/0/AndroidIDEProjects/Glens/ppocr-sdk/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
-com.paddle.ocr.demo.test.ppocr-sdk-debugAndroidTest-6 /storage/emulated/0/AndroidIDEProjects/Glens/ppocr-sdk/build/intermediates/merged_res/debugAndroidTest/mergeDebugAndroidTestResources
-com.paddle.ocr.demo.test.ppocr-sdk-debug-7 /storage/emulated/0/AndroidIDEProjects/Glens/ppocr-sdk/build/intermediates/packaged_res/debug/packageDebugResources

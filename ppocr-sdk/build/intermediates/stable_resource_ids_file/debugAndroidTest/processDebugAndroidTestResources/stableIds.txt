@@ -1,8 +1,0 @@
-com.paddle.ocr.demo.test:style/WhiteBackgroundDialogTheme = 0x7f030000
-com.paddle.ocr.demo.test:style/WhiteBackgroundTheme = 0x7f030001
-com.paddle.ocr.demo.test:id/front = 0x7f020002
-com.paddle.ocr.demo.test:styleable/CameraBridgeViewBase = 0x7f040000
-com.paddle.ocr.demo.test:id/any = 0x7f020000
-com.paddle.ocr.demo.test:id/back = 0x7f020001
-com.paddle.ocr.demo.test:attr/show_fps = 0x7f010001
-com.paddle.ocr.demo.test:attr/camera_id = 0x7f010000
