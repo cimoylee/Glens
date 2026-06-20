@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "/data/user/0/com.tom.rv2ide/files/home/.gradle/daemon/9.0.0/com.fc.lens.app-release-32:/mipmap-mdpi_ic_my_icon.png.flat",
+        "source": "/data/user/0/com.tom.rv2ide/files/home/.gradle/daemon/9.0.0/com.fc.lens.app-main-33:/mipmap-mdpi/ic_my_icon.png"
+    },
+    {
+        "merged": "/data/user/0/com.tom.rv2ide/files/home/.gradle/daemon/9.0.0/com.fc.lens.app-release-32:/drawable-xhdpi_ic_my_icon.png.flat",
+        "source": "/data/user/0/com.tom.rv2ide/files/home/.gradle/daemon/9.0.0/com.fc.lens.app-main-33:/drawable-xhdpi/ic_my_icon.png"
+    },
+    {
+        "merged": "/data/user/0/com.tom.rv2ide/files/home/.gradle/daemon/9.0.0/com.fc.lens.app-release-32:/drawable-mdpi_ic_my_icon.png.flat",
+        "source": "/data/user/0/com.tom.rv2ide/files/home/.gradle/daemon/9.0.0/com.fc.lens.app-main-33:/drawable-mdpi/ic_my_icon.png"
+    },
+    {
+        "merged": "/data/user/0/com.tom.rv2ide/files/home/.gradle/daemon/9.0.0/com.fc.lens.app-release-32:/xml_data_extraction_rules.xml.flat",
+        "source": "/data/user/0/com.tom.rv2ide/files/home/.gradle/daemon/9.0.0/com.fc.lens.app-main-33:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.fc.lens.app-release-32:/mipmap_ic_my_icon.png.flat",
+        "source": "com.fc.lens.app-main-33:/mipmap/ic_my_icon.png"
+    },
+    {
+        "merged": "/data/user/0/com.tom.rv2ide/files/home/.gradle/daemon/9.0.0/com.fc.lens.app-release-32:/mipmap_ic_my_icon.png.flat",
+        "source": "/data/user/0/com.tom.rv2ide/files/home/.gradle/daemon/9.0.0/com.fc.lens.app-main-33:/mipmap/ic_my_icon.png"
+    },
+    {
+        "merged": "/data/user/0/com.tom.rv2ide/files/home/.gradle/daemon/9.0.0/com.fc.lens.app-release-32:/drawable-xxxhdpi_ic_my_icon.png.flat",
+        "source": "/data/user/0/com.tom.rv2ide/files/home/.gradle/daemon/9.0.0/com.fc.lens.app-main-33:/drawable-xxxhdpi/ic_my_icon.png"
+    },
+    {
+        "merged": "/data/user/0/com.tom.rv2ide/files/home/.gradle/daemon/9.0.0/com.fc.lens.app-release-32:/mipmap-xxxhdpi_ic_my_icon.png.flat",
+        "source": "/data/user/0/com.tom.rv2ide/files/home/.gradle/daemon/9.0.0/com.fc.lens.app-main-33:/mipmap-xxxhdpi/ic_my_icon.png"
+    },
+    {
+        "merged": "com.fc.lens.app-release-32:/mipmap-xxxhdpi_ic_my_icon.png.flat",
+        "source": "com.fc.lens.app-main-33:/mipmap-xxxhdpi/ic_my_icon.png"
+    },
+    {
+        "merged": "/data/user/0/com.tom.rv2ide/files/home/.gradle/daemon/9.0.0/com.fc.lens.app-release-32:/drawable_ic_my_icon.png.flat",
+        "source": "/data/user/0/com.tom.rv2ide/files/home/.gradle/daemon/9.0.0/com.fc.lens.app-main-33:/drawable/ic_my_icon.png"
+    },
+    {
+        "merged": "/data/user/0/com.tom.rv2ide/files/home/.gradle/daemon/9.0.0/com.fc.lens.app-release-32:/drawable_ic_launcher_background.xml.flat",
+        "source": "/data/user/0/com.tom.rv2ide/files/home/.gradle/daemon/9.0.0/com.fc.lens.app-main-33:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.fc.lens.app-release-32:/mipmap-xhdpi_ic_my_icon.png.flat",
+        "source": "com.fc.lens.app-main-33:/mipmap-xhdpi/ic_my_icon.png"
+    },
+    {
+        "merged": "/data/user/0/com.tom.rv2ide/files/home/.gradle/daemon/9.0.0/com.fc.lens.app-release-32:/xml_accessibility_service_config.xml.flat",
+        "source": "/data/user/0/com.tom.rv2ide/files/home/.gradle/daemon/9.0.0/com.fc.lens.app-main-33:/xml/accessibility_service_config.xml"
+    },
+    {
+        "merged": "/data/user/0/com.tom.rv2ide/files/home/.gradle/daemon/9.0.0/com.fc.lens.app-release-32:/xml_assistant_service.xml.flat",
+        "source": "/data/user/0/com.tom.rv2ide/files/home/.gradle/daemon/9.0.0/com.fc.lens.app-main-33:/xml/assistant_service.xml"
+    },
+    {
+        "merged": "com.fc.lens.app-release-32:/mipmap-hdpi_ic_my_icon.png.flat",
+        "source": "com.fc.lens.app-main-33:/mipmap-hdpi/ic_my_icon.png"
+    },
+    {
+        "merged": "/data/user/0/com.tom.rv2ide/files/home/.gradle/daemon/9.0.0/com.fc.lens.app-release-32:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/data/user/0/com.tom.rv2ide/files/home/.gradle/daemon/9.0.0/com.fc.lens.app-main-33:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/data/user/0/com.tom.rv2ide/files/home/.gradle/daemon/9.0.0/com.fc.lens.app-release-32:/mipmap-xhdpi_ic_my_icon.png.flat",
+        "source": "/data/user/0/com.tom.rv2ide/files/home/.gradle/daemon/9.0.0/com.fc.lens.app-main-33:/mipmap-xhdpi/ic_my_icon.png"
+    },
+    {
+        "merged": "/data/user/0/com.tom.rv2ide/files/home/.gradle/daemon/9.0.0/com.fc.lens.app-release-32:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/data/user/0/com.tom.rv2ide/files/home/.gradle/daemon/9.0.0/com.fc.lens.app-main-33:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/data/user/0/com.tom.rv2ide/files/home/.gradle/daemon/9.0.0/com.fc.lens.app-release-32:/drawable-xxhdpi_ic_my_icon.png.flat",
+        "source": "/data/user/0/com.tom.rv2ide/files/home/.gradle/daemon/9.0.0/com.fc.lens.app-main-33:/drawable-xxhdpi/ic_my_icon.png"
+    },
+    {
+        "merged": "/data/user/0/com.tom.rv2ide/files/home/.gradle/daemon/9.0.0/com.fc.lens.app-release-32:/mipmap-hdpi_ic_my_icon.png.flat",
+        "source": "/data/user/0/com.tom.rv2ide/files/home/.gradle/daemon/9.0.0/com.fc.lens.app-main-33:/mipmap-hdpi/ic_my_icon.png"
+    },
+    {
+        "merged": "/data/user/0/com.tom.rv2ide/files/home/.gradle/daemon/9.0.0/com.fc.lens.app-release-32:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/data/user/0/com.tom.rv2ide/files/home/.gradle/daemon/9.0.0/com.fc.lens.app-main-33:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/data/user/0/com.tom.rv2ide/files/home/.gradle/daemon/9.0.0/com.fc.lens.app-release-32:/mipmap-xxhdpi_ic_my_icon.png.flat",
+        "source": "/data/user/0/com.tom.rv2ide/files/home/.gradle/daemon/9.0.0/com.fc.lens.app-main-33:/mipmap-xxhdpi/ic_my_icon.png"
+    },
+    {
+        "merged": "com.fc.lens.app-release-32:/mipmap-mdpi_ic_my_icon.png.flat",
+        "source": "com.fc.lens.app-main-33:/mipmap-mdpi/ic_my_icon.png"
+    },
+    {
+        "merged": "com.fc.lens.app-release-32:/mipmap-xxhdpi_ic_my_icon.png.flat",
+        "source": "com.fc.lens.app-main-33:/mipmap-xxhdpi/ic_my_icon.png"
+    },
+    {
+        "merged": "/data/user/0/com.tom.rv2ide/files/home/.gradle/daemon/9.0.0/com.fc.lens.app-release-32:/drawable-hdpi_ic_my_icon.png.flat",
+        "source": "/data/user/0/com.tom.rv2ide/files/home/.gradle/daemon/9.0.0/com.fc.lens.app-main-33:/drawable-hdpi/ic_my_icon.png"
+    },
+    {
+        "merged": "/data/user/0/com.tom.rv2ide/files/home/.gradle/daemon/9.0.0/com.fc.lens.app-release-32:/xml_backup_rules.xml.flat",
+        "source": "/data/user/0/com.tom.rv2ide/files/home/.gradle/daemon/9.0.0/com.fc.lens.app-main-33:/xml/backup_rules.xml"
+    }
+]

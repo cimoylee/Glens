@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Glens</string>
+    <string name="accessibility_description">Glens menggunakan layanan aksesibilitas untuk membaca teks di layar dan membantu Anda menyalin, menerjemahkan, atau mencari teks dengan cepat.</string>
+</resources>

@@ -1,0 +1,50 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Glens/app/build.gradle",
+      "selection": {
+        "end": {
+          "column": 31,
+          "index": 1244,
+          "line": 43
+        },
+        "start": {
+          "column": 31,
+          "index": 1244,
+          "line": 43
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Glens/keystore.properties",
+      "selection": {
+        "end": {
+          "column": 21,
+          "index": 128,
+          "line": 3
+        },
+        "start": {
+          "column": 21,
+          "index": 128,
+          "line": 3
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Glens/app/src/main/AndroidManifest.xml",
+      "selection": {
+        "end": {
+          "column": 45,
+          "index": 387,
+          "line": 10
+        },
+        "start": {
+          "column": 45,
+          "index": 387,
+          "line": 10
+        }
+      }
+    }
+  ],
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/Glens/app/src/main/AndroidManifest.xml"
+}
