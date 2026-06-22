@@ -15,6 +15,7 @@ import java.util.concurrent.Executors
 
 object OcrBridge {
     private const val TAG = "OcrBridge"
+    @Volatile
     private var ocr: PaddleOCR? = null
     private val executor = Executors.newSingleThreadExecutor()
     private val mainHandler = Handler(Looper.getMainLooper())
@@ -39,6 +40,7 @@ object OcrBridge {
         fun onFailure(e: Exception)
     }
 
+    @Synchronized
     fun init(context: Context) {
         executor.execute {
             try {
@@ -107,13 +109,14 @@ object OcrBridge {
 
                 Log.d(TAG, "Starting OCR on ${resizedBitmap.width}x${resizedBitmap.height}...")
                 val result = runBlocking { ocr?.recognize(resizedBitmap) }
+                    ?: throw IllegalStateException("PaddleOCR returned null")
                 val t2 = System.currentTimeMillis()
                 Log.d(TAG, "⏱ OCR inference: ${t2 - t0}ms")
 
                 if (resizedBitmap !== bitmap) resizedBitmap.recycle()
 
                 val items = mutableListOf<OcrItem>()
-                result?.results?.forEach { ocrResult ->
+                result.results.forEach { ocrResult ->
                     val points = ocrResult.box.points
                     val xs = points.map { (it.x * scaleX).toInt() }
                     val ys = points.map { (it.y * scaleY).toInt() }
@@ -138,8 +141,13 @@ object OcrBridge {
     }
 
     fun release() {
-        runBlocking { ocr?.release() }
-        ocr = null
+        executor.execute {
+            try {
+                runBlocking { ocr?.release() }
+            } finally {
+                ocr = null
+            }
+        }
     }
 
     // Kembali ke OcrItem (per baris/kata)
